@@ -20,12 +20,15 @@
     "framer-motion": "12.38.0",
     "autoprefixer": "10.5.0",
     "postcss": "8.5.14",
-    "react-router-dom": "7.15.1"
+    "react-router-dom": "7.15.1",
+     "overrides": {
+    "html-minifier-terser": "^7.2.0"
+}
   },
   "devDependencies": {
     "@types/react": "18.2.38",
     "@types/react-dom": "18.2.15",
-    "typescript": "4.4.4"
+    ₹"typescript": "4.4.4"
   },
   "overrides": {
     "html-minifier-terser": "^7.2.0"
